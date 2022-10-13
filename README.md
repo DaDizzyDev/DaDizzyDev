@@ -1,0 +1,4 @@
+- 👋 Hi, I’m dizzy. Im also known as alfie.
+- 👀 I’m program in Roblox Lua, C++, C#, Web Design, NodeJS
+- 📫 To contact me: Discord (alfie#2370)
+- 😊 Enjoy some free things I have released here.
